@@ -11,11 +11,11 @@ We mainly used SQL for this course and tried to reproduce the data in R as well.
 
 ### Project 2 : HW2
 
-### Midterm_project : Midterm
+### Midterm_project : Midterm Exam
 
 ### Project 3 : HW3
 
-### Final_project
+### Final_project : Final Exam
 
 *Code for this course is being published with permission.*
 
