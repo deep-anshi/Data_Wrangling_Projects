@@ -7,16 +7,16 @@ Data preparation is important before the starting with statistical analysis of t
 
 We mainly used SQL for this course and tried to reproduce the data in R as well.
 
-## Project 1 : HW1
+### Project 1 : HW1
 
-## Project 2 : HW2
+### Project 2 : HW2
 
-## Midterm_project : Midterm
+### Midterm_project : Midterm
 
-## Project 3 : HW3
+### Project 3 : HW3
 
-## Final_project
+### Final_project
 
 *Code for this course is being published with permission.*
 
-Thanks
+Thank You 
